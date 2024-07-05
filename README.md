@@ -4,21 +4,14 @@
 
 <p>## Table of Contents</p>
 
-<li> [Installation]</li>
-<li> [Usage}</li>
+<li> [nstallation</li>
+<li> Usage</li>
 <br>
 
 <p># Installation</p>
-1. Ensure you have [Rust](https://www.rust-lang.org/tools/install) installed.
-2. Clone this repository:
-    ```sh
-    git clone https://github.com/yourusername/rust-basic-auth-http-client.git
-    cd rust-basic-auth-http-client
-    ```
-3. Build the project:
-    ```sh
-    cargo build
-    ```
+<p>1. Ensure you have [Rust](https://www.rust-lang.org/tools/install) installed.</p>
+<p>2. Clone this repository:</p>
+<p>3. Build the project:</p>
 
 <p>## Usage</p>
 
